@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Ohayogozaimasu
 Konichiha
 Konbanha
+=======
+>>>>>>> parent of 9085d17... Edit file haha.txt
