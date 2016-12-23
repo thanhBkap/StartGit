@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 Ohayogozaimasu
 Konichiha
+<<<<<<< HEAD
 Konbanha
 =======
 >>>>>>> parent of 9085d17... Edit file haha.txt
+=======
+>>>>>>> parent of 32ddc44... Edit file haha.txt the second time
